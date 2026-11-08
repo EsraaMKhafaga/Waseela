@@ -6,6 +6,7 @@ The app provides features such as daily check-ins, one-tap emergency alerts, med
 Waseela aims to create a safe, simple, and supportive digital experience that promotes independence while keeping loved ones connected and reassured.
 
  👥 Team Members
+ 
   👩‍💻 Esraa Mohamed Mohamed Mohamed Khafaga — UX Researcher
   👩‍💻 Basmalla Osama Refaat — UX Researcher
   👨‍💻 Mohamed Hamdi Shafeeq Elmezaien — UI Designer
